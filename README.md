@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DannyDEViant
+- 👀 I’m interested in programming and information defending
+- 🌱 I’m currently learning Java Script, C#, Python, C++
+- 💞️ I’m looking to collaborate on web-projects and IS
+- 📫 How to reach me - russian social web VK @daniillogger
